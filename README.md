@@ -2,7 +2,7 @@
 
 This repository contains SQL queries to solve various questions related to the Northwind database. Each query is designed to extract specific information or perform certain operations on the database tables.
 
-- Technology used: PostgreSQL(pgAdnin4)
+- Technology used: PostgreSQL(pgAdmin4)
 
 **Create a report that shows the CategoryName and Description from the categories table sorted by CategoryName**
 
